@@ -107,7 +107,7 @@ Componentes usados nas três instâncias:
 
 **d) Evolução:**
 
-![Evolução do makespan - instância fácil](\graficos\grafico_facil.png)
+![Evolução do makespan - instância fácil](grafico_facil.png)
 
 A construção gulosa (LPT) já produziu uma solução muito equilibrada
 (cargas entre 43 e 44). O ILS rodou as 50 iterações permitidas sem
@@ -137,7 +137,7 @@ obtido.
 
 **d) Evolução:**
 
-![Evolução do makespan - instância média](\graficos\grafico_medio.png)
+![Evolução do makespan - instância média](grafico_medio.png)
 
 A construção gulosa chegou a 7,438; o ILS encontrou uma pequena melhora
 (para 7,429) já na iteração 13, através de uma realocação de tarefa
@@ -167,7 +167,7 @@ mais lenta, recebeu só 6 tarefas; a Máquina 5, mais rápida, recebeu 11).
 
 **d) Evolução:**
 
-![Evolução do makespan - instância difícil](\graficos\grafico_dificil.png)
+![Evolução do makespan - instância difícil](grafico_dificil.png)
 
 Esta foi a única instância em que a perturbação foi realmente decisiva:
 o gráfico mostra o ILS escapando de sucessivos ótimos locais
